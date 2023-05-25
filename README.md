@@ -9,9 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```
-`https://github.com/3mrr2g2b/MyJason/json.json`
-
-
+[https://github.com/3mrr2g2b/MyJason/json.json]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
